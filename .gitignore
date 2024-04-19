@@ -1,0 +1,4 @@
+.env
+__pycache__
+test.ipynb
+Llama-2-7b-chat-finetune

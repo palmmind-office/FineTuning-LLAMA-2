@@ -1,0 +1,5 @@
+langchain
+python-dotenv
+pymupdf
+langchain-google-genai
+pandas
